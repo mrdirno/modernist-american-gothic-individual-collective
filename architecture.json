@@ -1,0 +1,77 @@
+{
+  "book_id": "modernist-american-gothic-individual-collective",
+  "title": "The Patient Seepage of Memory",
+  "tagline": "In a city built on forgetting, one man's job is to persuade the last remnants of the past to quietly erase themselves.",
+  "target_words": 75591,
+  "actual_words": 75591,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Memory and Erasure",
+    "Coercion and Consent",
+    "Architectural Decay",
+    "The Specter of Progress"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "A Silvered Rot in the Air",
+      "words": 6299
+    },
+    {
+      "ch": 2,
+      "title": "The Man from the LLC",
+      "words": 6299
+    },
+    {
+      "ch": 3,
+      "title": "The Rhythm of Pausing",
+      "words": 6299
+    },
+    {
+      "ch": 4,
+      "title": "An Amber Pond, Undisturbed",
+      "words": 6299
+    },
+    {
+      "ch": 5,
+      "title": "The Warehouse That Sank",
+      "words": 6299
+    },
+    {
+      "ch": 6,
+      "title": "Dust That Adheres",
+      "words": 6299
+    },
+    {
+      "ch": 7,
+      "title": "The Patina of Declaration",
+      "words": 6299
+    },
+    {
+      "ch": 8,
+      "title": "The Hollowed-Out Silence",
+      "words": 6299
+    },
+    {
+      "ch": 9,
+      "title": "A Procession of Erasure",
+      "words": 6299
+    },
+    {
+      "ch": 10,
+      "title": "The Patient Seepage",
+      "words": 6299
+    },
+    {
+      "ch": 11,
+      "title": "Through a Lens of Silver Nitrate",
+      "words": 6299
+    },
+    {
+      "ch": 12,
+      "title": "What the City Could Grow",
+      "words": 6299
+    }
+  ]
+}
